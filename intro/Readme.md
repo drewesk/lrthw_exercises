@@ -1,12 +1,12 @@
 # Intro Chapter
 
-Questions:
+## Questions:
 
 >What are the three most essential skills that a beginner programmer needs to know?
 
-### Go through each one of the exercises, 
-### type in each sample exactly as it is shown,
-### make it run/execute without errors.
+### Have the skill of reading and writing, 
+### attention for the details,
+### and noticing when things change.
 
 >Please explain these three skills in your own words.
 
