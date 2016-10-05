@@ -9,15 +9,15 @@ applied only to the same line.
 ### and check each word in reverse against what you should have typed.
 ### Did you find more mistakes? Fix them.
 
->Yes. I made no mistakes that were'nt immediately fixed, 
+> Yes. I made no mistakes that were'nt immediately fixed, 
 due to typing at quarter speed. With the example visible at all times when recreating it.
 
 ### Read what you typed above out loud, 
 ### including saying each character by its name. 
 ### Did you find more mistakes? Fix them.
 
->I read aloud with no further mistakes found. 
+> I read aloud with no further mistakes found. 
 
 ### Can you find a key combo in RubyMine to comment out a line of code?
 
->{command} / allows you to toggle a line into a comment.
+> {command} / allows you to toggle a line into a comment.
