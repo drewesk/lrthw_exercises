@@ -2,11 +2,12 @@
 
 ### Did you fix the strings?  
 
->I did not get a terminal violation, maybe my rubocop is not properly configured...
+>I had the offense: single-quoted strings when you don't need string interpolation or special symbols.
+>
 
 ### Or did you tell Rubocop to ignore those code style violations? 
 
->n/a, refer to last answer.
+
 
 ### Why did you pick what you did?
 
