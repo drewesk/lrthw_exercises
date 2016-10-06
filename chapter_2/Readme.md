@@ -9,8 +9,7 @@ applied only to the same line.
 ### and check each word in reverse against what you should have typed.
 ### Did you find more mistakes? Fix them.
 
-> Yes. I made no mistakes that were'nt immediately fixed, 
-due to typing at quarter speed. With the example visible at all times when recreating it.
+> I reviewed each line going backwards and each word in reverse. All mistakes are fixed.
 
 ### Read what you typed above out loud, 
 ### including saying each character by its name. 
@@ -20,4 +19,4 @@ due to typing at quarter speed. With the example visible at all times when recre
 
 ### Can you find a key combo in RubyMine to comment out a line of code?
 
-> {command} / allows you to toggle a line into a comment.
+> `<command> /` hotkey allows you to toggle the current line or selection into a comment.
