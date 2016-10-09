@@ -4,15 +4,15 @@ Questions:
 
 >What are the three most essential skills that a beginner programmer needs to know?
 
-### Have the skill of reading and writing, 
-### attention for the details,
-### and noticing when things change.
+### Have the skill of reading and writing.  
+### The attention for the details. 
+### Noticing when things change. 
 
 >Please explain these three skills in your own words.
 
-### Make sure to be thorough with learning the material, 
-### be precise in typing the verbatim what you are required to, 
-### and execute with ease.
+### You need to be able to understand and reproduce what you learn and need to know.
+### The attention for the details. Details are the foundation for following the rules of a language and allows you to fluently(with minimal errors) "speak" the language.
+### You are adaptable to the ever changing information.
 
 >Why do you need to not copy and paste?
 
